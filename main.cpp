@@ -2,6 +2,6 @@
 
 int main()
 {
-    std::cout<<"NIC A NIC"<<std::endl;
+    std::cout<<"NIC A DDDAAADDSS"<<std::endl;
     return 0;
 }
