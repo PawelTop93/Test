@@ -2,6 +2,6 @@
 
 int main()
 {
-    std::cout<<"Nic sie nie dzieje abc"<<std::endl;
+    std::cout<<"NIC A NIC"<<std::endl;
     return 0;
 }
